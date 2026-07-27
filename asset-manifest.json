@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Github-Wiki/static/css/main.06bebdb1.css",
+    "main.js": "/Github-Wiki/static/js/main.12251b95.js",
+    "static/media/github.png": "/Github-Wiki/static/media/github.987334e9f782cc505f25.png",
+    "index.html": "/Github-Wiki/index.html",
+    "main.06bebdb1.css.map": "/Github-Wiki/static/css/main.06bebdb1.css.map",
+    "main.12251b95.js.map": "/Github-Wiki/static/js/main.12251b95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06bebdb1.css",
+    "static/js/main.12251b95.js"
+  ]
+}
